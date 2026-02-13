@@ -30,12 +30,4 @@ To build a system that:
 
 ---
 
-## 📂 Project Structure
-amazon_sentiment_analysis/
-│
-├── data/
-├── model/
-├── notebook/
-├── streamlit_app.py
-├── requirements.txt
-└── README.md
+
